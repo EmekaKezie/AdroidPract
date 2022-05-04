@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Pract</string>
+    <string name="company_name">ICOLLEGE</string>
+    <string name="login_username_hint">Enter your Email or Matric No.</string>
+    <string name="login_password_hint">Enter your Password</string>
+    <string name="login_logo_desc">Logo</string>
+</resources>
